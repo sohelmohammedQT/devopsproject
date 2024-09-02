@@ -1,0 +1,2 @@
+# devopsproject
+Flask applicatio setup
