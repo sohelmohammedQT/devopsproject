@@ -1,2 +1,2 @@
-# devopsproject
-Flask applicatio setup
+# devops-project
+Devops-kit
